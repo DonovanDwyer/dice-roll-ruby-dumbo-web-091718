@@ -6,5 +6,5 @@ def roll
 #  rand(1..6)
   array = [1,2,3,4,5,6]
   roll = array.sample(1)
-  roll.to_s.to_i
+  roll.to_i
 end
