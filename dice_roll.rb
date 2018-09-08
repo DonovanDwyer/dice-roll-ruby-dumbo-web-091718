@@ -5,5 +5,5 @@
 def roll
 #  rand(1..6)
   array = [1..6]
-  array
+  puts array
 end
